@@ -14,3 +14,4 @@ function sum(a) {
   return f;
 }
 alert(sum(1)(-5)(6));
+alert(sum(6)(-10));
